@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: rgb(243, 244, 245);
+  color: #101820;
+  font-family: "Inter", sans-serif;
+  font-size: 15px;
+  margin: 0;
+  padding: 64px 0 0 0;
+}
