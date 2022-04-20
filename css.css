@@ -1,3 +1,11 @@
+:root {
+  --color-black: #101820;
+  --color-green: #71dbd4;
+  --color-green: #f2f0a1;
+  --color-grey: #f3f4f5;
+  --color-orange: #ffb600;
+  --color-red: #e8927c;
+}
 html {
   box-sizing: border-box;
 }
@@ -6,12 +14,51 @@ html {
 *:after {
   box-sizing: inherit;
 }
-
 body {
-  background-color: rgb(243, 244, 245);
+  background-color: var(--color-grey);
   color: #101820;
   font-family: "Inter", sans-serif;
-  font-size: 15px;
-  margin: 0;
-  padding: 64px 0 0 0;
+  font-size: 16px;
+  margin: 5vh 0;
+}
+
+a {
+  color: inherit;
+  display: block;
+  padding: 5px 0;
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration-color: var(--color-orange);
+}
+
+.container {
+  margin-inline: auto;
+  width: min(100% - 2vh, 800px);
+}
+.logo-positive {
+  fill: #101820;
+}
+.logo-negative {
+  fill: white;
+}
+.cards {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+}
+.card {
+  background-color: white;
+}
+.card-header {
+  align-items: flex-end;
+  display: flex;
+  height: 140px;
+  padding: 16px;
+}
+.card-header.orange {
+  background-color: var(--color-orange);
+}
+.card-body {
+  padding: 16px;
 }
