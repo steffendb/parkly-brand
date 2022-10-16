@@ -3,7 +3,8 @@
 ## Color codes
 
 ### Orange
-`#FFB600`
+Hex: `#FFB600`
+RGB: `rgb(255,182,0)`
 
 ### Black
 `#101820`
