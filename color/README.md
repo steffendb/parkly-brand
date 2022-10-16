@@ -3,8 +3,10 @@
 ## Color codes
 
 ### Orange
-Hex: `#FFB600`  
-RGB: `rgb(255,182,0)`
+- Hex: #FFB600
+- RGB: 255,182,0
+- CMYK: 0,22,100,0
+- Pantone: PANTONE 7549 C
 
 ### Black
 `#101820`
