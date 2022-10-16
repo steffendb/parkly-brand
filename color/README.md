@@ -3,7 +3,7 @@
 ## Color codes
 
 ### Orange
-Hex: `#FFB600`
+Hex: `#FFB600`  
 RGB: `rgb(255,182,0)`
 
 ### Black
@@ -20,6 +20,19 @@ RGB: `rgb(255,182,0)`
 
 ### Red
 `#E8927C`
+
+## CSS variables
+
+```
+
+--color-orange: #FFB600;
+--color-black: #101820;
+--color-green: #71DBD4;
+--color-yellow: #F2F0A1;
+--color-grey: #F3F4F5;
+--color-red: #E8927C;
+
+```
 
 ![Parkly color examples](parkly_color_for_documentation.jpg)
 
