@@ -3,22 +3,22 @@
 ## Color codes
 
 ### Orange
-- `#FFB600`
+`#FFB600`
 
 ### Black
-- `#101820`
+`#101820`
 
 ### Green
-- `#71DBD4`
+`#71DBD4`
 
 ### Yellow
-- `#F2F0A1`
+`#F2F0A1`
 
 ### Grey
-- `#F3F4F5`
+`#F3F4F5`
 
 ### Red
-- `#E8927C`
+`#E8927C`
 
 ![Parkly color examples](parkly_color_for_documentation.jpg)
 
