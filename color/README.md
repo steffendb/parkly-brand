@@ -9,7 +9,7 @@ Parkly is mostly orange. All of the color and text combinations above are wcag t
 ### Orange
 
 Test
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+![#f03c15](https://placehold.co/20/f03c15) `#f03c15`
 
 - Hex: #FFB600
 - RGB: 255,182,0
